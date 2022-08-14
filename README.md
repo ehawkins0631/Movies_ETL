@@ -13,30 +13,17 @@ The project included extracting a large data set from Kaggle, then transforming 
 
 Extracting, Transforming and Loading:
 
-![image](https://user-images.githubusercontent.com/101227930/180764573-83add107-a8af-4b76-a34c-d81c0d957732.png)
+Figure 1:
+![image](https://user-images.githubusercontent.com/101227930/184529771-c516292e-9eb7-4339-aea3-f38d55178775.png)
 
 
+Figure 2:
+![image](https://user-images.githubusercontent.com/101227930/184529787-1dfdd932-7d65-4b3a-9df4-07c174c4172b.png)
+
+Figure 3:
+![image](https://user-images.githubusercontent.com/101227930/184529800-4052ca9a-343f-4a1b-a43b-78fa36314c0f.png)
 
 
-![image](https://user-images.githubusercontent.com/101227930/180764616-36f29b9a-a37e-4570-8a21-a448904a37cd.png)
+Figure 4:
+![image](https://user-images.githubusercontent.com/101227930/184529805-78893ee2-cf95-4f40-9ef3-e85af03b9761.png)
 
-
-
-![image](https://user-images.githubusercontent.com/101227930/180764880-49908fd4-c55f-4705-8f47-416cc272e9e0.png)
-
-Verifying the data in PgAdmin
-
-
-Movies Query
-
-![image](https://user-images.githubusercontent.com/101227930/180764968-d380972d-e886-4855-bdd0-17554f651643.png)
-
-Ratings Query
-
-![image](https://user-images.githubusercontent.com/101227930/180765943-c22fecad-149b-4f8a-8c4e-d160d1c6f8dd.png)
-
-
-
-
-Summary
-A JSON file and 2 Kaggle files were extracted, then transformed, and joined. A movies and ratings file were loaded into a database for the hackathon event.
