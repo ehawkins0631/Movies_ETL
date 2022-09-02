@@ -27,3 +27,12 @@ Figure 3:
 Figure 4:
 ![image](https://user-images.githubusercontent.com/101227930/184529805-78893ee2-cf95-4f40-9ef3-e85af03b9761.png)
 
+
+
+
+Contact:
+
+email: ehawkins0631@gmail.com
+twitter: evahawkins3006
+Linkedin https://www.linkedin.com/in/eva-hawkins-a9b333147?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBNFb6lLqT5%2BphXu1GpAOrQ%3D%3D
+
