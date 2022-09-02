@@ -20,7 +20,9 @@ Figure 1:
 Figure 2:
 ![image](https://user-images.githubusercontent.com/101227930/184529787-1dfdd932-7d65-4b3a-9df4-07c174c4172b.png)
 
+
 Figure 3:
+
 ![image](https://user-images.githubusercontent.com/101227930/184529800-4052ca9a-343f-4a1b-a43b-78fa36314c0f.png)
 
 
