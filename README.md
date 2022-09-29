@@ -27,7 +27,6 @@ Figure 3:
 
 ![image](https://user-images.githubusercontent.com/101227930/184529800-4052ca9a-343f-4a1b-a43b-78fa36314c0f.png)
 
-
 Figure 4:
 
 ![image](https://user-images.githubusercontent.com/101227930/184529805-78893ee2-cf95-4f40-9ef3-e85af03b9761.png)
