@@ -20,6 +20,7 @@ Purpose:
 The project included extracting a large data set from Kaggle, then transforming the data into a usable dataset for a "hacking competition." Once the data was transformed and narrowed in scope for the hackathon, the DataFrames were loaded into PostgresSQL.
 
 
+
 Extracting, Transforming and Loading:
 
 Figure 1:
