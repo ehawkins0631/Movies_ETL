@@ -3,7 +3,6 @@ Movies_ETL
 
 Extract, Transform, Load
 
-
 Purpose:
 
 * Create an ETL pipeline from raw data to a SQL database.
