@@ -4,7 +4,6 @@ Extract, Transform, Load
 
 Purpose:
 
-
 * Create an ETL pipeline from raw data to a SQL database.
 * Extract data from disparate sources using Python.
 * Clean and transform data using Pandas.
